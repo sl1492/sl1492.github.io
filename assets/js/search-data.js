@@ -14,11 +14,11 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/experience/";
+            window.location.href = "/work/";
           },
         },{id: "nav-research-experiences",
           title: "📊 Research Experiences",
-          description: "Academic and applied research projects I&#39;ve conducted in statistics and data science.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
@@ -29,6 +29,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/project/";
+          },
+        },{id: "nav-volunteer-amp-leadership",
+          title: "🌆 Volunteer &amp; Leadership",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/leadership/";
           },
         },{id: "nav-resume",
           title: "Resume",
