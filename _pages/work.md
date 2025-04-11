@@ -80,7 +80,7 @@ nav_order: 1
 
 <div class="experience-card">
   <div class="experience-header">
-    <h3><a href="https://www.regeneron.com/" target="_blank"> simplyBrand </a></h3>
+    <h3><a href="https://www.simplybrand.com/" target="_blank"> simplyBrand </a></h3>
     <em>Data Analyst Intern</em>
     <div class="experience-meta">📍 Shanghai, China &nbsp;|&nbsp; 📅 Nov 2020 – Jan 2021</div>
   </div>
