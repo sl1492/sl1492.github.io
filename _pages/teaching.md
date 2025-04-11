@@ -6,5 +6,3 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: false
 nav_order: 6
 ---
-
-
