@@ -7,7 +7,7 @@ subtitle: Master’s Student in Applied Statistics and Data Science @ Cornell Un
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
