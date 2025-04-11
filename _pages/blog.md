@@ -3,7 +3,7 @@ layout: default
 permalink: /project/
 title: 🏷️ Projects
 nav: true
-nav_order: 1
+nav_order: 3
 ---
 
 

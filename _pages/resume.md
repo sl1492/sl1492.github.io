@@ -1,11 +1,12 @@
 ---
 layout: page
-title: CV/Resume
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 nav: true
-nav_order: 8
+nav_order: 5
 ---
 
-## CV/Resume
+<iframe src="/assets/pdf/Simeng_Li_Resume.pdf" width="100%" height="800px" style="border: none;"></iframe>
 
-<iframe src="{{ '/assets/pdfs/Simeng_Li_Resume.pdf' | relative_url }}" width="100%" height="1000px" style="border: none;"></iframe>
+<p><a href="/assets/pdf/Simeng_Li_Resume.pdf" download>📥 Download Resume (PDF)</a></p>
+

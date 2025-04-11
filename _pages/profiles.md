@@ -4,7 +4,7 @@ permalink: /research/
 title: 📊 Research Experiences
 description: "Academic and applied research projects I've conducted in statistics and data science."
 nav: true
-nav_order: 7
+nav_order: 2
 ---
 
 <!-- Embedded CSS for styling research cards -->
