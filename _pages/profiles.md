@@ -2,8 +2,7 @@
 layout: profiles
 permalink: /other/
 title: Other Experiences
-description: 
+description:
 nav: true
 nav_order: 7
 ---
-
