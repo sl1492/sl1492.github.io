@@ -16,16 +16,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-work-experiences",
-          title: "Work Experiences",
+        },{id: "nav-work-experience",
+          title: "Work Experience",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/work/";
+            window.location.href = "/experience/";
           },
         },{id: "nav-research-experiences",
           title: "Research Experiences",
-          description: "",
+          description: "Academic and applied research projects I&#39;ve conducted in statistics and data science.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
