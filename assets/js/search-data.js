@@ -9,26 +9,33 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-resume",
-          title: "Resume",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-work-experience",
-          title: "Work Experience",
+  },{id: "nav-work-experience",
+          title: "💼 Work Experience",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/experience/";
           },
         },{id: "nav-research-experiences",
-          title: "Research Experiences",
+          title: "📊 Research Experiences",
           description: "Academic and applied research projects I&#39;ve conducted in statistics and data science.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
+          },
+        },{id: "nav-️-projects",
+          title: "🏷️ Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/project/";
+          },
+        },{id: "nav-resume",
+          title: "Resume",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/resume/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
