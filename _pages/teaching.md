@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: Work Experience
+title: 💼 Work Experience
 nav: true
 nav_order: 6
 ---
@@ -36,8 +36,6 @@ nav_order: 6
   margin-top: 0.5rem;
 }
 </style>
-
-## 💼 Work Experience
 
 <div class="experience-card">
   <div class="experience-header">
