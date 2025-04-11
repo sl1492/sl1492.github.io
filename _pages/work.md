@@ -40,7 +40,7 @@ nav_order: 1
 <div class="experience-card">
   <div class="experience-header">
     <h3><a href="https://www.analysisgroup.com/" target="_blank"> Analysis Group </a></h3>
-    <em>Summer Analyst Intern (Incoming)</em>
+    <em>Summer HEOR Analyst Intern (Incoming)</em>
     <div class="experience-meta">📍 Boston, MA &nbsp;|&nbsp; 📅 Jun 2025 – Aug 2025</div>
   </div>
   <div class="experience-body">
