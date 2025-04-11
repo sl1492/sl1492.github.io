@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: 📊 Research Experiences
-description: "Academic and applied research projects I've conducted in statistics and data science."
+description:
 nav: true
 nav_order: 2
 ---
@@ -39,6 +39,38 @@ nav_order: 2
   margin-top: 0.5rem;
 }
 </style>
+
+### Research Assistant
+
+<div class="research-card">
+  <div class="research-header">
+    <h3><a href="https://weill.cornell.edu/" target="_blank"> Weil Cornell Medicine, Department of Biostatistics</a></h3>
+    <em>Research Assistant</em>
+    <div class="research-meta">📅 Feb 2025 – Present</div>
+  </div>
+  <div class="research-body">
+    <ul>
+      <li>Microbime data analysis and visualization
+    </ul>
+  </div>
+</div>
+
+<div class="research-card">
+  <div class="research-header">
+    <h3><a href="https://www.massgeneral.org/medicine/mpec" target="_blank"> Massachusetts General Hospital, Medical Practice Evaluation Center</a></h3>
+    <em>Clinical Research Coordinator, Simulation Modeling and Decision Science Pillar</em>
+    <div class="research-meta">📍 Boston, MA &nbsp;|&nbsp; 📅 Jul 2023 – Apr 2024</div>
+  </div>
+  <div class="research-body">
+    <ul>
+      <li>Built and executed simulation model runs and sensitivity analyses for HIV intervention evaluation.</li>
+      <li>Drove cost-effectiveness analyses using real-world data and literature review.</li>
+      <li>Enhanced healthcare decision-making using data-driven techniques.</li>
+    </ul>
+  </div>
+</div>
+
+### Undergraduate Research Projects
 
 <div class="research-card">
   <div class="research-header">
