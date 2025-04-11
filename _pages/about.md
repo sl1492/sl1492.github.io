@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Master’s Student in Applied Statistics and Data Science @ Cornell University
 
