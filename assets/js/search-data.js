@@ -9,29 +9,29 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-work-experience",
-          title: "💼 Work Experience",
+  },{id: "nav-work-experiences",
+          title: "Work Experiences",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/work/";
           },
         },{id: "nav-research-experiences",
-          title: "📊 Research Experiences",
+          title: "Research Experiences",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-️-projects",
-          title: "🏷️ Projects",
+        },{id: "nav-projects",
+          title: "Projects",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/project/";
           },
         },{id: "nav-volunteer-amp-leadership",
-          title: "🌆 Volunteer &amp; Leadership",
+          title: "Volunteer &amp; Leadership",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -45,7 +45,7 @@ ninja.data = [{
             window.location.href = "/resume/";
           },
         },{id: "nav-honors-amp-awards",
-          title: "🏅 Honors &amp; Awards",
+          title: "Honors &amp; Awards",
           description: "",
           section: "Navigation",
           handler: () => {
