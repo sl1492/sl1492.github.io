@@ -1,59 +1,99 @@
 ---
 layout: page
-permalink: /work/
-title: Work Experiences
-description:
+permalink: /experience/
+title: Work Experience
 nav: true
 nav_order: 6
 ---
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+<style>
+.experience-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  background-color: white;
+}
 
-### 🏢 **T. Rowe Price**
+.experience-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
 
-**_Modeling Unemployment Spells and Earnings Mobility (Cornell Ongoing Capstone Project)_**  
-📍 *Ithaca, NY* | 📅 _Jan 2025 – Present_
+.experience-header h3 {
+  margin: 0;
+}
 
-- Developed statistical and machine learning models to simulate unemployment spells and earnings mobility using the Panel Study of Income Dynamics (PSID).
-- Analyzed predictors like age, gender, earnings rank, marital status, and financial variables to assess their impact on unemployment dynamics.
+.experience-meta {
+  font-size: 0.95rem;
+  color: #666;
+}
 
+.experience-body ul {
+  padding-left: 1.2rem;
+  margin-top: 0.5rem;
+}
+</style>
+
+##  💼 Work Experience
+
+<div class="experience-card">
+  <div class="experience-header">
+    <h3><a href="https://www.troweprice.com" target="_blank"> T. Rowe Price</a></h3>
+    <em>Modeling Unemployment Spells and Earnings Mobility (Cornell Ongoing Capstone Project)</em>
+    <div class="experience-meta">📍 Ithaca, NY &nbsp;|&nbsp; 📅 Jan 2025 – Present</div>
+  </div>
+  <div class="experience-body">
+    <ul>
+      <li>Developed statistical and machine learning model using PSID data.</li>
+      <li>Analyzed predictors like age, gender, earnings rank, and marital status.</li>
+    </ul>
+  </div>
 </div>
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-
-### **Cornell Center for Social Sciences**
-
-**_Graduate Student Data Analyst_**  
-📍 *Ithaca, NY* | 📅 _Oct 2024 – Present_
-
-- Reviewed and validated R, Python, and SAS code to ensure accurate, reproducible results.
-- Built reproducibility packages to improve transparency and research workflows.
-- Provided feedback to enhance data integrity and improve documentation practices.
-
+<div class="experience-card">
+  <div class="experience-header">
+    <h3><a href="https://socialsciences.cornell.edu/" target="_blank"> Cornell Center for Social Sciences</a></h3>
+    <em>Graduate Student Data Analyst</em>
+    <div class="experience-meta">📍 Ithaca, NY &nbsp;|&nbsp; 📅 Oct 2024 – Present</div>
+  </div>
+  <div class="experience-body">
+    <ul>
+      <li>Reviewed and validated R, Python, and SAS code.</li>
+      <li>Built reproducibility packages to improve workflows.</li>
+      <li>Enhanced data integrity and documentation processes.</li>
+    </ul>
+  </div>
 </div>
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-
-### **Regeneron Pharmaceuticals**
-
-**_Statistical Programming Intern_**  
-📍 *Basking Ridge, NJ* | 📅 _Jun 2024 – Aug 2024_
-
-- Built and validated statistical programs using SAS and SQL to generate reports, tables, and visualizations with high accuracy and project compliance.
-- Gained hands-on experience in programming workflows and data management in regulated environments.
-- Collaborated with cross-functional teams and joined training sessions to grow technical and industry knowledge.
-
+<div class="experience-card">
+  <div class="experience-header">
+    <h3><a href="https://www.regeneron.com/" target="_blank"> Regeneron Pharmaceuticals</a></h3>
+    <em>Statistical Programming Intern</em>
+    <div class="experience-meta">📍 Basking Ridge, NJ &nbsp;|&nbsp; 📅 Jun 2024 – Aug 2024</div>
+  </div>
+  <div class="experience-body">
+    <ul>
+      <li>Built and validated statistical programs using SAS and SQL.</li>
+      <li>Gained expertise in programming workflows in regulated environments.</li>
+      <li>Collaborated with cross-functional teams and attended training sessions.</li>
+    </ul>
+  </div>
 </div>
 
-<div style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
-
-### **Medical Practice Evaluation Center, Massachusetts General Hospital**
-
-**_Clinical Research Coordinator, Simulation Modeling and Decision Science Pillar_**  
-📍 *Boston, MA* | 📅 _Jul 2023 – Apr 2024_
-
-- Created and debugged mathematical simulation models and sensitivity analyses to assess HIV intervention effectiveness.
-- Conducted deep cost-effectiveness analyses using real-world data and comprehensive literature review.
-- Applied data-driven strategies to enhance healthcare decision-making in resource-limited settings.
-
+<div class="experience-card">
+  <div class="experience-header">
+    <h3><a href="https://www.massgeneral.org/medicine/mpec" target="_blank"> MGH Medical Practice Evaluation Center</a></h3>
+    <em>Clinical Research Coordinator, Simulation Modeling and Decision Science Pillar</em>
+    <div class="experience-meta">📍 Boston, MA &nbsp;|&nbsp; 📅 Jul 2023 – Apr 2024</div>
+  </div>
+  <div class="experience-body">
+    <ul>
+      <li>Built and executed simulation model runs and sensitivity analyses for HIV intervention evaluation.</li>
+      <li>Drove cost-effectiveness analyses using real-world data and literature review.</li>
+      <li>Enhanced healthcare decision-making using data-driven techniques.</li>
+    </ul>
+  </div>
 </div>
