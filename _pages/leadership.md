@@ -2,7 +2,7 @@
 layout: page
 permalink: /leadership/
 title: 🌆 Volunteer & Leadership
-description: 
+description:
 nav: true
 nav_order: 4
 ---
@@ -54,7 +54,6 @@ nav_order: 4
     </ul>
   </div>
 </div>
-
 
 <div class="research-card">
   <div class="research-header">
