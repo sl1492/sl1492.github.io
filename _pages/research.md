@@ -50,7 +50,7 @@ nav_order: 2
   </div>
   <div class="research-body">
     <ul>
-      <li>Microbime data analysis and visualization
+      <li>Microbime data analysis and visualization</li>
     </ul>
   </div>
 </div>
