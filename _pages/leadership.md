@@ -2,7 +2,7 @@
 layout: page
 permalink: /leadership/
 title: 🌆 Volunteer & Leadership
-description:
+description: 
 nav: true
 nav_order: 4
 ---
@@ -55,6 +55,7 @@ nav_order: 4
   </div>
 </div>
 
+
 <div class="research-card">
   <div class="research-header">
     <h3><a href="https://www.richmond.edu/" target="_blank">University of Richmond</a></h3>
@@ -63,7 +64,7 @@ nav_order: 4
   </div>
   <div class="research-body">
     <ul>
-      <li>Graded assignments and provided tutoring for Data Structures, Intro to Programming, and Econ 101.</li>
+      <li>Graded assignments and provided tutoring for Introduction to Programming, Data Structures and Introduction to Economics.</li>
       <li>Facilitated learning by offering one-on-one and group support sessions.</li>
     </ul>
   </div>
