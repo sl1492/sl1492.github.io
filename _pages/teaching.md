@@ -37,7 +37,7 @@ nav_order: 6
 }
 </style>
 
-##  💼 Work Experience
+## 💼 Work Experience
 
 <div class="experience-card">
   <div class="experience-header">
