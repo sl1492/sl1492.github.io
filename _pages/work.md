@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /work/
-title: 💼 Work Experience
+title: Work Experiences
 nav: true
 nav_order: 1
 ---

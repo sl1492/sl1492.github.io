@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /leadership/
-title: 🌆 Volunteer & Leadership
+title: Volunteer & Leadership
 description:
 nav: true
 nav_order: 4
