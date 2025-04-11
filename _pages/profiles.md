@@ -40,7 +40,6 @@ nav_order: 2
 }
 </style>
 
-
 <div class="research-card">
   <div class="research-header">
     <h3> <strong>Length Bias Estimation of Small Businesses Lifetime</strong></h3>

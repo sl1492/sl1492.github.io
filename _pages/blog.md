@@ -6,7 +6,6 @@ nav: true
 nav_order: 3
 ---
 
-
 <style>
 .experience-card {
   border: 1px solid #ddd;
